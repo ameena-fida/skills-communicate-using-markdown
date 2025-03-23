@@ -5,3 +5,9 @@
 ```
 +<img alt="image of cute kitty" src=https://octodex.github.com/securitocat/png width=400>
 ###### Adding an image
+###### Coding
+<pre>
+``` javascript
+var myVar = "Hello, world!";
+```
+</pre>
